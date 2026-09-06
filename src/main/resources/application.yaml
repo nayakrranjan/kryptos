@@ -15,7 +15,9 @@ server:
   servlet:
     context-path: /kryptos
 
-
+slack:
+  username: nayakrranjan@gmail.com
+  status: true
 
 logging:
   level:
